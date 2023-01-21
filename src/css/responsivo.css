@@ -1,0 +1,83 @@
+/* RESPONSIVIDADE 1366 */
+@media (max-width: 1366px){
+
+    .carrossel{
+        height: 24.375rem;
+    }
+
+    /* CARDS NOVIDADES */
+    .container-list {
+        width: 82%;
+    }
+
+    .section-novidades .novidades{
+        font-size: 1.71rem;
+    }
+
+    .section-novidades .list-itens {
+        gap: 1.6rem;
+    }
+
+    .section-novidades .list-itens .alinhar {
+        height: 17rem;
+    }
+
+    .section-novidades .list-itens .card {
+        height: 24rem;
+        width: 22rem;
+    }
+
+    .card .img1 img{
+        width: 14rem;
+        height: 14rem;
+    }
+
+    .card .img2 img{
+        width: 11.5rem;
+    }
+
+    .card .img3 img{
+        width: 14rem;
+    }
+
+    .card .img4 img{
+        width: 14rem;
+    }
+
+    .card .img5 img{
+        width: 12rem;
+    }
+
+    .card .img6 img{
+        width: 12rem;
+    }
+
+    
+    /*CARD NOVIDADE*/
+    
+    /*CARD BLACK FRIDAY */
+    .black-friday .tittle-black-friday{
+        font-size: 1.71rem;
+    }
+
+    .black-friday .itens-black-friday .lista-itens-blackfriday{
+        width: 100%;
+        gap: 2.3rem;
+    }
+
+    .lista-itens-blackfriday .container-itens-blackfriday .container-imgs{
+        height: 190px;
+    }
+
+    .lista-itens-blackfriday .container-itens-blackfriday .black-friday-descontos{
+        gap: .7rem;
+    }
+
+    .lista-itens-blackfriday .container-itens-blackfriday .black-friday-descontos p{
+        font-size: .85rem;
+        padding: 0.300rem 1.150rem;
+    }
+
+    /*CARD BLACK FRIDAY */
+}
+/* RESPONSIVIDADE 1366 */

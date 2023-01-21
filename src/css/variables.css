@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Lobster&family=Lobster+Two:ital,wght@1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+@font-face {
+    font-family: 'JejuGothic';
+    src: url(../fonts/jejugothic-regular.ttf);
+ }
+
+:root {
+    --font-logo: 'Lobster', cursive, sans-serif;
+    --font-text: 'Inter', sans-serif;
+    --font-logo-2: 'Lobster Two', cursive, sans-serif;
+    --font-banner: 'Itim', cursive, sans-serif;
+}
